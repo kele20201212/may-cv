@@ -166,7 +166,18 @@ h2{
 .page4-box p span a{
     color: gray;
 }
-
+#page-four{
+    width: 1200px;
+    height: 400px;
+    margin: 0 auto;
+}
+.work-first{
+    float: left;
+    padding: 30px 50px;
+}
+.work-first:nth-child(2){
+    border-right: 2px solid rgb(219,148,183);
+}
 /*教育背景*/
 
 /*联系方式*/
